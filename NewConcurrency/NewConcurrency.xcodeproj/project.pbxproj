@@ -12,6 +12,7 @@
 		DC6BD91C2B403E5C00589B67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC6BD91B2B403E5C00589B67 /* Assets.xcassets */; };
 		DC6BD91F2B403E5C00589B67 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC6BD91E2B403E5C00589B67 /* Preview Assets.xcassets */; };
 		DC6BD9262B403E7700589B67 /* AsyncLetDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6BD9252B403E7700589B67 /* AsyncLetDemo.swift */; };
+		DC6BD9282B40538E00589B67 /* TaskGroupDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6BD9272B40538E00589B67 /* TaskGroupDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		DC6BD91B2B403E5C00589B67 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC6BD91E2B403E5C00589B67 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DC6BD9252B403E7700589B67 /* AsyncLetDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLetDemo.swift; sourceTree = "<group>"; };
+		DC6BD9272B40538E00589B67 /* TaskGroupDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				DC6BD9172B403E5A00589B67 /* NewConcurrencyApp.swift */,
 				DC6BD9192B403E5A00589B67 /* ContentView.swift */,
 				DC6BD9252B403E7700589B67 /* AsyncLetDemo.swift */,
+				DC6BD9272B40538E00589B67 /* TaskGroupDemo.swift */,
 				DC6BD91B2B403E5C00589B67 /* Assets.xcassets */,
 				DC6BD91D2B403E5C00589B67 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				DC6BD91A2B403E5A00589B67 /* ContentView.swift in Sources */,
 				DC6BD9262B403E7700589B67 /* AsyncLetDemo.swift in Sources */,
 				DC6BD9182B403E5A00589B67 /* NewConcurrencyApp.swift in Sources */,
+				DC6BD9282B40538E00589B67 /* TaskGroupDemo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
